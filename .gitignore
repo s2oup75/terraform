@@ -10,3 +10,4 @@
 
 # swp file
 *.swp
+aws-provider.tf
