@@ -8,3 +8,5 @@
 # Local temporary files
 /tmp/
 
+# swp file
+*.swp
